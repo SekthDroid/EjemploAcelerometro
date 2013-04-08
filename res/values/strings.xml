@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploAcelerometro</string>
+    <string name="Move">Shake to get a toast and to switch color</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Ejex">Eje X:</string>
+    <string name="Ejey">Eje Y:</string>
+    <string name="Ejez">Eje Z:</string>
+    <string name="titulo">Valores acelerómetro</string>
+    <string name="sensorNameLabel">Sensor: </string>
+    <string name="sensorVendorLabel">Vendedor: </string>
+    <string name="sensorVersionLabel">Version: </string>
+    <string name="sensorPowerLabel">Potencia: </string>
+
+</resources>
